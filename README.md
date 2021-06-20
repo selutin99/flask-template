@@ -7,14 +7,8 @@ Repository creates for fast running development process with configuration for F
 ## Troubleshooting
 ...
 
-## Release Notes
-Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
-
 ## Authors
 * Aleksandr Seliutin - [selutin99](https://github.com/selutin99)
-
-## Acknowledgments
-...
 
 ## Contributing
 Please, follow [Contributing](CONTRIBUTING.md) page.
