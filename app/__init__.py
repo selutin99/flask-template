@@ -21,6 +21,6 @@ def create_app() -> Flask:
 
 
 def dependency_injection_container_initialize() -> InitialSettings:
-    from app.services.container import container
-    container()
+    from app.services.container import container as ioc_container
+    ioc_container()
     return injector.get('init_settings')
